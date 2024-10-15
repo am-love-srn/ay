@@ -84,7 +84,7 @@ body {
 }
 .text {
   text-align: center;
-  font-size: 11px;
+  font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 20px;
   font-weight: bold;
@@ -137,7 +137,7 @@ body {
   border-radius: 50px;
 }
 .link2 {
-  font-size: 11px;
+  font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   position: absolute;
